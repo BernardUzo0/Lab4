@@ -1,0 +1,144 @@
+{
+  "recipes": [
+    {
+      "name": "Chicken Burrito Bowl",
+      "ingredients": [
+        "200g chicken breast",
+        "100g rice",
+        "100g black beans",
+        "50g sweetcorn",
+        "1 tomato",
+        "1 avocado",
+        "50g lettuce",
+        "30g grated cheese",
+        "1 tbsp olive oil",
+        "1 tsp paprika",
+        "1 tsp garlic powder",
+        "Salt and pepper"
+      ],
+      "method": [
+        "Cook the rice according to the packet instructions.",
+        "Cut the chicken breast into small pieces.",
+        "Season the chicken with paprika, garlic powder, salt and pepper.",
+        "Heat olive oil in a frying pan and cook the chicken thoroughly.",
+        "Drain and rinse the black beans and sweetcorn.",
+        "Chop the tomato, avocado and lettuce.",
+        "Place the cooked rice in a bowl.",
+        "Add the chicken, beans, sweetcorn, tomato, avocado and lettuce.",
+        "Sprinkle grated cheese over the top.",
+        "Serve and enjoy."
+      ]
+    },
+    {
+      "name": "Shrimp Fried Rice",
+      "ingredients": [
+        "200g peeled shrimp",
+        "150g cooked and chilled rice",
+        "2 eggs",
+        "50g peas",
+        "1 carrot",
+        "2 spring onions",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 clove garlic",
+        "Salt and pepper"
+      ],
+      "method": [
+        "Cook the rice in advance and refrigerate it until chilled.",
+        "Chop the carrot, spring onions and garlic.",
+        "Heat sesame oil in a frying pan or wok.",
+        "Add the shrimp and cook until pink and fully cooked.",
+        "Remove the shrimp and scramble the eggs in the pan.",
+        "Add the carrot, peas and garlic and cook until tender.",
+        "Add the chilled rice and stir fry until piping hot.",
+        "Return the shrimp to the pan and add soy sauce.",
+        "Mix everything together and add the spring onions.",
+        "Serve hot."
+      ]
+    },
+    {
+      "name": "Sweet Potato and Mince",
+      "ingredients": [
+        "1 large sweet potato",
+        "200g lean beef mince",
+        "1 onion",
+        "1 clove garlic",
+        "100g chopped tomatoes",
+        "1 tbsp olive oil",
+        "1 tsp paprika",
+        "1 tsp mixed herbs",
+        "Salt and pepper"
+      ],
+      "method": [
+        "Preheat the oven to 200 degrees Celsius.",
+        "Wash the sweet potato and pierce it with a fork.",
+        "Bake for 40 to 50 minutes until soft.",
+        "Chop the onion and garlic.",
+        "Heat olive oil in a frying pan.",
+        "Add the onion and garlic and cook until softened.",
+        "Add the beef mince and cook until browned and fully cooked.",
+        "Stir in the chopped tomatoes, paprika and mixed herbs.",
+        "Simmer the mince mixture for 10 minutes.",
+        "Slice open the baked sweet potato and spoon the mince over it.",
+        "Serve and enjoy."
+      ]
+    },
+    {
+      "name": "Overnight Oats",
+      "ingredients": [
+        "50g rolled oats",
+        "150ml milk",
+        "100g Greek yoghurt",
+        "1 tsp chia seeds",
+        "1 tsp honey",
+        "1 banana",
+        "50g strawberries",
+        "1 tbsp peanut butter"
+      ],
+      "method": [
+        "Add the rolled oats to a jar or container.",
+        "Pour in the milk and add the Greek yoghurt.",
+        "Add chia seeds and honey.",
+        "Mix everything together until combined.",
+        "Cover the container and place it in the fridge overnight.",
+        "In the morning, remove the oats from the fridge.",
+        "Slice the banana and strawberries.",
+        "Top the oats with fruit and peanut butter.",
+        "Serve cold and enjoy."
+      ]
+    },
+    {
+      "name": "Cinnamon Rolls",
+      "ingredients": [
+        "300g plain flour",
+        "7g instant yeast",
+        "150ml warm milk",
+        "40g butter",
+        "40g sugar",
+        "1 egg",
+        "2 tbsp cinnamon",
+        "50g brown sugar",
+        "40g softened butter for filling",
+        "100g icing sugar",
+        "2 tbsp milk for icing"
+      ],
+      "method": [
+        "Mix the flour, instant yeast and sugar in a large bowl.",
+        "Add warm milk, melted butter and the egg.",
+        "Mix and knead the dough until smooth.",
+        "Cover the dough and leave it to rise for about one hour.",
+        "Roll the dough into a rectangle.",
+        "Spread softened butter over the dough.",
+        "Mix cinnamon and brown sugar and sprinkle over the butter.",
+        "Roll the dough tightly and cut it into equal pieces.",
+        "Place the rolls in a greased baking dish.",
+        "Cover and leave to rise for another 30 minutes.",
+        "Preheat the oven to 180 degrees Celsius.",
+        "Bake for 20 to 25 minutes until golden brown.",
+        "Mix icing sugar with milk to make the icing.",
+        "Drizzle the icing over the warm cinnamon rolls.",
+        "Serve and enjoy."
+      ]
+    }
+  ]
+}
